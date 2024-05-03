@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 146eba7038a14426a7d95a5b80da5291, type: 3}
+  m_Name: taghreedabdulla3
+  m_EditorClassIdentifier: 
+  m_PlayerName: taghreedabdulla3
+  m_PlayerData: []
+  m_Workspaces:
+  - name: workspaces/default-dzr6rj_n6f073mihogcpjw
+    displayName: Inworld AI Demos
+    experimentalFeatures: []
+    billingAccount: billing-accounts/4a7f2890-5a81-48d3-b7a2-b8f131ecb7d2
+    meta: 
+    runtimeAccess: RUNTIME_ACCESS_PRIVATE
+    scenes: []
+    keySecrets: []
+  - name: workspaces/nuclearenergy
+    displayName: NuclearEnergy
+    experimentalFeatures: []
+    billingAccount: billing-accounts/4a7f2890-5a81-48d3-b7a2-b8f131ecb7d2
+    meta: 
+    runtimeAccess: RUNTIME_ACCESS_PRIVATE
+    scenes: []
+    keySecrets: []
+  - name: workspaces/the_research_lab
+    displayName: The Research Lab
+    experimentalFeatures: []
+    billingAccount: billing-accounts/4a7f2890-5a81-48d3-b7a2-b8f131ecb7d2
+    meta: 
+    runtimeAccess: RUNTIME_ACCESS_PRIVATE
+    scenes: []
+    keySecrets: []
+  m_UserID: 
+  m_BillingAccount: billing-accounts/4a7f2890-5a81-48d3-b7a2-b8f131ecb7d2

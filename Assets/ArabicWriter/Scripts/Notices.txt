@@ -1,0 +1,9 @@
+ ArabicSupport is an Open Source File Created by: Abdullah Konash. Twitter: @konash
+ This File allow the users to use arabic text in XNA and Unity platform.
+ It flips the characters and replace them with the appropriate ones to connect the letters in the correct way.
+ 
+ <license>
+ MIT License
+ 
+ Copyright(c) 2018
+Abdullah Konash

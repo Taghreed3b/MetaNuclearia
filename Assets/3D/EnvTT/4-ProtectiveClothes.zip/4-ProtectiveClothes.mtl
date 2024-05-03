@@ -1,0 +1,133 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 20.10.2015 14:10:05
+
+newmtl Man_Skin
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ManTexFrMudbox_v04 NoEyelashes2.png
+	map_Kd ManTexFrMudbox_v04 NoEyelashes2.png
+	map_bump -bm 0.0400 ManTexFrMudbox_v04 BW.png
+	bump -bm 0.0400 ManTexFrMudbox_v04 BW.png
+
+newmtl ShoeCovers3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7765 0.6863 0.1961
+	Kd 0.7765 0.6863 0.1961
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ke Map__256_Falloff.png
+	map_bump -bm 0.1700 Map__257_Smoke.png
+
+newmtl ShoeCovers2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7765 0.6863 0.1961
+	Kd 0.7765 0.6863 0.1961
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ke Map__256_Falloff.png
+	map_bump -bm 0.1700 Map__257_Smoke.png
+
+newmtl Coveralls
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.6431 0.5020
+	Kd 0.7529 0.6431 0.5020
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ke Map__175_Falloff.png
+
+newmtl RubberShoes
+	Ns 81.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.2970 0.2970 0.2970
+	Ke 0.0000 0.0000 0.0000
+	map_Ke Map__311_Falloff.png
+
+newmtl Floor
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.8820 0.8820 0.8820
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__412_Smoke.png
+	map_Kd Map__412_Smoke.png
+	map_Ke Map__411_Falloff.png
+	map_refl Map__413_Smoke.png
+
+newmtl Thermal_Suit_
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.6431 0.5020
+	Kd 0.7529 0.6431 0.5020
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ke Map__175_Falloff.png
+	map_d Map__174_Falloff.png
+
+newmtl Dosimetry_Device
+	Ns 94.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0090 0.0090 0.0090
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 4- DosimetryDevicePaint.jpg
+	map_Kd 4- DosimetryDevicePaint.jpg
+	map_Ke Map__115_Falloff.png
+	map_bump -bm 0.0200 4- DosimetryDevice Metal FrMudbox.png
+	bump -bm 0.0200 4- DosimetryDevice Metal FrMudbox.png
+	map_refl 4- DosimetryDevice Metal FrMudbox.png
+
+newmtl Gloves
+	Ns 81.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.2970 0.2970 0.2970
+	Ke 0.0000 0.0000 0.0000
+	map_Ke Map__311_Falloff.png
